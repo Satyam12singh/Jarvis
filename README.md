@@ -24,9 +24,9 @@ Retrieve information about your device, including hardware specifications and sy
 
 Control your device's power state using voice commands, whether you need to shut it down or restart it.
 
-### PDF Generation
+### PDF Generation (Under Development)
 
-Generate PDF documents from various sources, making it easy to save and share information.
+Generate PDF documents from various sources, making it easy to save and share information. Please note that this feature is currently in the development phase and provides basic functionality.
 
 ### Wikipedia Data Retrieval
 
@@ -58,18 +58,8 @@ To start using JARVIS, follow the installation instructions in the [documentatio
 2. Issue voice commands or type text commands to interact with JARVIS.
 3. Explore the various features and capabilities to enhance your productivity.
 
-## Contributing
-
-We welcome contributions from the open-source community. If you'd like to contribute to the project, please follow our [contribution guidelines](link-to-contribution-guidelines).
-
 ## License
 
 This project is licensed under the [MIT License](link-to-license). Feel free to use and modify it according to your needs.
-
-## Acknowledgments
-
-We would like to express our gratitude to the developers and contributors who have made this project possible.
-
----
 
 Enjoy the power of JARVIS, your personal virtual assistant!
