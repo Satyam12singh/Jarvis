@@ -63,3 +63,7 @@ To start using JARVIS, follow the installation instructions in the [documentatio
 This project is licensed under the [MIT License](link-to-license). Feel free to use and modify it according to your needs.
 
 Enjoy the power of JARVIS, your personal virtual assistant!
+
+## Contact
+
+For any inquiries, please contact [satyamsingh20942@example.com](mailto:satyamsingh20942@example.com).
